@@ -12,4 +12,5 @@ In this task, we focus on performing medical image segmentation using 2D slices 
 In this task, we focus on medical image generation using paired 2D slices from the BraTS 2017 dataset. The objective is to translate between different MRI modalities (T1, T1ce, T2, and FLAIR) using deep learning-based image-to-image translation techniques. This task offers a hands-on introduction to neuroimaging data preprocessing, modality-to-modality synthesis, and evaluation of generated images, providing insight into practical applications of generative models in medical imaging.
 
 Project: Resvit_New
+
 Datasets download: https://pan.baidu.com/s/1qCVzZTfsToJaBghw625Nug?pwd=23uv
