@@ -40,5 +40,9 @@ wget https://storage.googleapis.com/vit_models/imagenet21k/R50+ViT-B_16.npz
 T1_T1C 对应 从T1和T1C单个模态生成T1C的one to one task
 
 ...
+1、训练
+查看train.sh
 
+2、测试
+查看test.sh
 
