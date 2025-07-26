@@ -16,7 +16,7 @@ Kaggle : https://www.kaggle.com/code/asif00/medical-image-generation-with-gans
 
 In this task, we aim to predict brain age using Graph Neural Networks (GNNs) based on multimodal brain connectivity from the NKI-Rockland dataset. The task involves two key steps: (1) preprocessing structural (DTI) and functional (rs-fMRI) MRI data to construct individual brain networks, and (2) building an end-to-end GNN framework to extract graph representations for brain age extimation. This provides hands-on experience in multimodal neuroimaging analysis and graph-based deep learning.
 
-Code line:
+Tutorial link:https://www.kaggle.com/code/jianweichenc/tutorial-3-brain-age-estimation-via-multimodal-bra
 
 ## Task 4 Super-resolution reconstruction of spatial transcriptomics
 *Instructor*: Hanyu Liu(liu_han-yu@foxmail.com) & Xiaoyang Li(m18233511508@outlook.com)
