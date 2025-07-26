@@ -11,7 +11,7 @@ In this task, we focus on performing medical image segmentation using 2D slices 
 
 Kaggle : https://www.kaggle.com/code/asif00/medical-image-generation-with-gans
 
-## Task 3
+## Task 3 Brain Age Estimation via Multimodal Brain Networks
 *Instructor*: Jianwei Chen (2644055@dundee.ac.uk)
 
 In this task, we aim to predict brain age using Graph Neural Networks (GNNs) based on multimodal brain connectivity from the NKI-Rockland dataset. The task involves two key steps: (1) preprocessing structural (DTI) and functional (rs-fMRI) MRI data to construct individual brain networks, and (2) building an end-to-end GNN framework to extract graph representations for brain age extimation. This provides hands-on experience in multimodal neuroimaging analysis and graph-based deep learning.
