@@ -20,7 +20,12 @@ Tutorial link:https://www.kaggle.com/competitions/tutorial-3-brain-age-estimatio
 
 Files link: https://pan.baidu.com/s/12OLF4M_pcIjOfncRpRMV7A  extraction code:9876
 
-## Task 4 Super-resolution reconstruction of spatial transcriptomics
+## Task 4 Predicting brain disorders via genomics and radiomics
+*Instructor*: Boxing Liu (2402092@dundee.ac.uk) & Chenyang Tao (ct689@cam.ac.uk)
+
+Kaggle: https://www.kaggle.com/code/boxingliu/xgboost-coursework
+
+## Task 5 Super-resolution reconstruction of spatial transcriptomics
 *Instructor*: Hanyu Liu(liu_han-yu@foxmail.com) & Xiaoyang Li(m18233511508@outlook.com)
 In this task, we implemented super-resolution reconstruction of spatial transcriptomics (ST) data. The main goal is to reconstruct low-resolution gene expression data into high-resolution gene expression images. The project compares three different deep learning models: Advanced U-Net, TESLA, and HSG. We integrate the simplified model and training and testing codes into this ipynb file, and add a simple visualization.
 
