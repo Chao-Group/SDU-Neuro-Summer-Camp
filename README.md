@@ -22,7 +22,7 @@ Tutorial link:https://www.kaggle.com/competitions/tutorial-3-brain-age-estimatio
 Files link: https://pan.baidu.com/s/12OLF4M_pcIjOfncRpRMV7A  extraction code:9876
 
 
-## Task 5 Predicting brain disorders via genomics and radiomics 
+## Task 4 Predicting brain disorders via genomics and radiomics 
 *Instructor*: Boxing Liu (2402092@dundee.ac.uk) & Chenyang Tao (ct689@cam.ac.uk) 
 
 Kaggle: https://www.kaggle.com/code/boxingliu/xgboost-coursework 
