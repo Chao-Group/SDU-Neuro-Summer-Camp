@@ -5,6 +5,7 @@
 
 In this task, we focus on performing medical image segmentation using 2D slices from the BraTS (Brain Tumor Segmentation) dataset. The goal is to accurately segment tumor regions from MRI scans using deep learning techniques. This task provides a practical introduction to medical image preprocessing, model training, and evaluation in a real-world neuroimaging context.
 
+Kaggle: https://www.kaggle.com/code/calvchen/task1-segmentation-with-unet2d
 
 ## Task 2 Medical Image Generation with GANs on chest-X-ray
 *Instructor*: Yifan Chen (yc681@cam.ac.uk)
@@ -27,3 +28,10 @@ In this task, we implemented super-resolution reconstruction of spatial transcri
 Code link(loaded data): https://www.kaggle.com/code/liuhanyu1007/sdu-st
 Download data if use another server or localhost:
 https://www.kaggle.com/datasets/liuhanyu1007/st-data-for-sdu-cam-project/data
+
+
+## Task 4 Predicting brain disorders via genomics and radiomics 
+*Instructor*: Boxing Liu (2402092@dundee.ac.uk) & Chenyang Tao (ct689@cam.ac.uk) 
+
+Kaggle: https://www.kaggle.com/code/boxingliu/xgboost-coursework 
+ 
