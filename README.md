@@ -27,6 +27,8 @@ Files link: https://pan.baidu.com/s/12OLF4M_pcIjOfncRpRMV7A  extraction code:987
 
 Kaggle: https://www.kaggle.com/code/boxingliu/xgboost-coursework 
 
+Data: https://www.kaggle.com/datasets/boxingliu/xgboost-data
+
 
 ## Task 5 Super-resolution reconstruction of spatial transcriptomics
 *Instructor*: Hanyu Liu(liu_han-yu@foxmail.com) & Xiaoyang Li(m18233511508@outlook.com)
